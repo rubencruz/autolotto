@@ -1,0 +1,1 @@
+This application will assist users in determining if their lottery tickets are winners.
